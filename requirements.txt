@@ -1,4 +1,2 @@
 streamlit==1.29.0
 pdf2docx==0.5.8
-io
-tempfile
